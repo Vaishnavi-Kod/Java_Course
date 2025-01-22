@@ -33,5 +33,5 @@ public class Demo1 {
 }
 /*Output
    This is speak method
-   This is study method
+   This is study method  */
 
