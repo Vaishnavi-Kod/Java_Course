@@ -81,3 +81,17 @@ public class Vaccination {
 	}
 
 }
+/*Output:
+First Dose ---
+You are eligible for the first dose.
+First dose taken. Please pay 250 Rs.
+
+Second Dose ---
+You are eligible for the second dose.
+Second dose taken successfully.
+
+Booster Dose ---
+You are eligible for the booster dose.
+Booster dose taken successfully.
+*/
+	
